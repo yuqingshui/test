@@ -1,2 +1,2 @@
-From tomcat:latest
+FROM tomcat:latest
 
